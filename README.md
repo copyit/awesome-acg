@@ -169,6 +169,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Image Recognition
 
 - [alt-i2v](https://github.com/GINK03/alt-i2v) - Alternative illustration2vec implitation of sigmoids of fully connected layer. [日本語]
+- [anime-character-detector](https://github.com/ksasao/anime-character-detector) - YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM). [English/日本語]
 - [animeface-2009](https://github.com/nagadomi/animeface-2009) - Face and Landmark Detector for Anime/Manga. Similar to lbpcascade_animeface but more accurate. [English]
 - [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama). [日本語]
 - [AniSeg](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation. [English]
