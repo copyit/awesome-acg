@@ -272,6 +272,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [marine_button](https://github.com/hapo31/marine_button) - Play 宝鐘マリン's voice on web. [日本語]
 - [MotionPNGTuber](https://github.com/rotejin/MotionPNGTuber) - PNGTuber以上Live2D未満 - 動画ループで髪揺れなど表現可能なリアルタイム口パクツール. [日本語]
 - [notify.moe](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available. [English]
+- [See-through](https://github.com/shitagaki-lab/see-through) - Single-image Layer Decomposition for Anime Characters. [English]
 - [Vignette](https://github.com/vignetteapp/vignette) - The open source VTuber software. [English]
 
 ## Developer Groups
