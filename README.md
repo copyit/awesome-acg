@@ -80,6 +80,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [anime-streaming](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. [English]
 - [AnimeBirthdaysDataset](https://github.com/hykilpikonna/AnimeBirthdaysDataset) - Anime birthday dataset from bd.fan-web.jp. [English]
 - [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database. [English]
+- [AnimeHub](https://animehub.wiki) - Anime database with legal streaming navigator. [English/中文/日本語]
 - [Animeloop](https://animeloop.org/) - Website for animeloop-cli. [English]
 - [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF. [日本語]
 - [arm-server](https://github.com/BeeeQueue/arm-server) - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu. [English]
@@ -259,7 +260,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [ojosama-web](https://github.com/jiro4989/ojosama-web) - テキストを壱百満天原サロメお嬢様風の口調に変換するWebアプリ. [日本語]
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js. [English]
 - [WebLive2D](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms. [English]
-- [AnimeHub](https://animehub.wiki) - Anime database with legal streaming navigator, supports EN/ZH/JA
 
 ## Uncategorized
 
